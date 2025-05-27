@@ -23,8 +23,6 @@ codenotes-frontend/ # React frontend (Vite + Tailwind CSS)
 
 ### Setup
 
-#### 1. Clone the repository
-
 ```sh
 git clone --recurse-submodules https://github.com/deadloop-dev/codenotes
 cd codenotes
