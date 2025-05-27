@@ -14,7 +14,7 @@ services:
   frontend:
     build: ./codenotes-frontend
     ports:
-      - "5000:5000"
+      - "5000:80"
     volumes:
       - ./codenotes-frontend:/app
     environment:
