@@ -1,0 +1,6 @@
+[submodule "codenotes-backend"]
+	path = codenotes-backend
+	url = https://github.com/deadloop-dev/codenotes-backend.git
+[submodule "codenotes-frontend"]
+	path = codenotes-frontend
+	url = https://github.com/deadloop-dev/codenotes-frontend.git
