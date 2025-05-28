@@ -67,4 +67,4 @@ npm test # — Run backend tests
 MIT
 
 Made with ❤️ for code snippets and notes.
-_A simple test web application for security testing purposes._
+Codenotes is a _A simple test web application for security testing purposes._
